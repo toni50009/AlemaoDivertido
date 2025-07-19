@@ -1,0 +1,218 @@
+[
+  {
+    "palavra": "Krankenwagen",
+    "partes": [
+      { "palavra": "Kranken", "significado": "sick" },
+      { "palavra": "Wagen", "significado": "car" }
+    ],
+    "traducao": "Ambulance",
+    "explicacao": "Literally 'car for the sick'. In German, 'ambulance' is a logical combination of words."
+  },
+  {
+    "palavra": "Staubsauger",
+    "partes": [
+      { "palavra": "Staub", "significado": "dust" },
+      { "palavra": "Sauger", "significado": "sucker" }
+    ],
+    "traducao": "Vacuum cleaner",
+    "explicacao": "Literally 'dust sucker'. Very straightforward!"
+  },
+  {
+    "palavra": "Handschuhe",
+    "partes": [
+      { "palavra": "Hand", "significado": "hand" },
+      { "palavra": "Schuhe", "significado": "shoes" }
+    ],
+    "traducao": "Gloves",
+    "explicacao": "Literally 'hand shoes'. Gloves protect your hands like shoes protect your feet."
+  },
+  {
+    "palavra": "Fernseher",
+    "partes": [
+      { "palavra": "Fern", "significado": "distant" },
+      { "palavra": "Seher", "significado": "viewer" }
+    ],
+    "traducao": "Television",
+    "explicacao": "Literally 'viewer from afar'. Television lets you see distant things."
+  },
+  {
+    "palavra": "Zahnfleisch",
+    "partes": [
+      { "palavra": "Zahn", "significado": "tooth" },
+      { "palavra": "Fleisch", "significado": "meat" }
+    ],
+    "traducao": "Gums",
+    "explicacao": "Literally 'tooth meat'. Refers to the flesh around the teeth."
+  },
+  {
+    "palavra": "Flugzeug",
+    "partes": [
+      { "palavra": "Flug", "significado": "flight" },
+      { "palavra": "Zeug", "significado": "thing" }
+    ],
+    "traducao": "Airplane",
+    "explicacao": "Literally 'flight thing'. An airplane is the thing that flies."
+  },
+  {
+    "palavra": "Geschirrspüler",
+    "partes": [
+      { "palavra": "Geschirr", "significado": "dishes" },
+      { "palavra": "Spüler", "significado": "washer" }
+    ],
+    "traducao": "Dishwasher",
+    "explicacao": "Literally 'dish washer'. Machine for washing dishes."
+  },
+  {
+    "palavra": "Kühlschrank",
+    "partes": [
+      { "palavra": "Kühl", "significado": "cold" },
+      { "palavra": "Schrank", "significado": "cabinet" }
+    ],
+    "traducao": "Refrigerator",
+    "explicacao": "Literally 'cold cabinet'. Place to keep food cold."
+  },
+  {
+    "palavra": "Wasserkocher",
+    "partes": [
+      { "palavra": "Wasser", "significado": "water" },
+      { "palavra": "Kocher", "significado": "boiler" }
+    ],
+    "traducao": "Electric kettle",
+    "explicacao": "Literally 'water boiler'. Device for boiling water."
+  },
+  {
+    "palavra": "Schreibtisch",
+    "partes": [
+      { "palavra": "Schreib", "significado": "write" },
+      { "palavra": "Tisch", "significado": "table" }
+    ],
+    "traducao": "Desk",
+    "explicacao": "Literally 'writing table'. Table used for writing or studying."
+  },
+  {
+    "palavra": "Feuerzeug",
+    "partes": [
+      { "palavra": "Feuer", "significado": "fire" },
+      { "palavra": "Zeug", "significado": "thing" }
+    ],
+    "traducao": "Lighter",
+    "explicacao": "Literally 'fire thing'. Object used to light a fire."
+  },
+  {
+    "palavra": "Staubtuch",
+    "partes": [
+      { "palavra": "Staub", "significado": "dust" },
+      { "palavra": "Tuch", "significado": "cloth" }
+    ],
+    "traducao": "Duster",
+    "explicacao": "Literally 'dust cloth'. Used to clean dust."
+  },
+  {
+    "palavra": "Handtuch",
+    "partes": [
+      { "palavra": "Hand", "significado": "hand" },
+      { "palavra": "Tuch", "significado": "towel" }
+    ],
+    "traducao": "Hand towel",
+    "explicacao": "Literally 'hand towel'. Towel used to dry hands."
+  },
+  {
+    "palavra": "Bleistift",
+    "partes": [
+      { "palavra": "Blei", "significado": "lead" },
+      { "palavra": "Stift", "significado": "pen/pencil" }
+    ],
+    "traducao": "Pencil",
+    "explicacao": "Literally 'lead pen'. Pencils were originally made with graphite, which resembles lead."
+  },
+  {
+    "palavra": "Flaschenöffner",
+    "partes": [
+      { "palavra": "Flasche", "significado": "bottle" },
+      { "palavra": "Öffner", "significado": "opener" }
+    ],
+    "traducao": "Bottle opener",
+    "explicacao": "Literally 'bottle opener'. Tool for opening bottles."
+  },
+  {
+    "palavra": "Taschenlampe",
+    "partes": [
+      { "palavra": "Tasche", "significado": "pocket" },
+      { "palavra": "Lampe", "significado": "lamp/flashlight" }
+    ],
+    "traducao": "Flashlight",
+    "explicacao": "Literally 'pocket lamp'. Small portable flashlight."
+  },
+  {
+    "palavra": "Zahnarzt",
+    "partes": [
+      { "palavra": "Zahn", "significado": "tooth" },
+      { "palavra": "Arzt", "significado": "doctor" }
+    ],
+    "traducao": "Dentist",
+    "explicacao": "Literally 'tooth doctor'. Professional who takes care of teeth."
+  },
+  {
+    "palavra": "Seehund",
+    "partes": [
+      { "palavra": "See", "significado": "sea" },
+      { "palavra": "Hund", "significado": "dog" }
+    ],
+    "traducao": "Seal",
+    "explicacao": "Literally 'sea dog'. Seal is called this because of its sound and appearance."
+  },
+  {
+    "palavra": "Seestern",
+    "partes": [
+      { "palavra": "See", "significado": "sea" },
+      { "palavra": "Stern", "significado": "star" }
+    ],
+    "traducao": "Starfish",
+    "explicacao": "Literally 'sea star'. Sea animal shaped like a star."
+  },
+  {
+    "palavra": "Seepferdchen",
+    "partes": [
+      { "palavra": "See", "significado": "sea" },
+      { "palavra": "Pferdchen", "significado": "little horse" }
+    ],
+    "traducao": "Seahorse",
+    "explicacao": "Literally 'little sea horse'. Small fish shaped like a horse."
+  },
+  {
+    "palavra": "Tintenfisch",
+    "partes": [
+      { "palavra": "Tinte", "significado": "ink" },
+      { "palavra": "Fisch", "significado": "fish" }
+    ],
+    "traducao": "Squid/Octopus",
+    "explicacao": "Literally 'ink fish'. Refers to the animal that releases ink in the water."
+  },
+  {
+    "palavra": "Walross",
+    "partes": [
+      { "palavra": "Wal", "significado": "whale" },
+      { "palavra": "Ross", "significado": "horse" }
+    ],
+    "traducao": "Walrus",
+    "explicacao": "Literally 'whale horse'. Large marine animal with tusks."
+  },
+  {
+    "palavra": "Quallenblume",
+    "partes": [
+      { "palavra": "Qualle", "significado": "jellyfish" },
+      { "palavra": "Blume", "significado": "flower" }
+    ],
+    "traducao": "Jellyfish",
+    "explicacao": "Literally 'jellyfish flower'. Gelatinous sea animal."
+  },
+  {
+    "palavra": "Seegurke",
+    "partes": [
+      { "palavra": "See", "significado": "sea" },
+      { "palavra": "Gurke", "significado": "cucumber" }
+    ],
+    "traducao": "Sea cucumber",
+    "explicacao": "Literally 'sea cucumber'. Elongated marine animal."
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "palavra": "Krankenwagen",
+    "partes": [
+      {
+        "palavra": "Kranken",
+        "significado": "doente"
+      },
+      {
+        "palavra": "Wagen",
+        "significado": "carro"
+      }
+    ],
+    "traducao": "Ambulância",
+    "explicacao": "Literalmente 'carro de doente'. Ambulância em alemão é uma junção lógica das palavras."
+  },
+  {
+    "palavra": "Staubsauger",
+    "partes": [
+      {
+        "palavra": "Staub",
+        "significado": "pó"
+      },
+      {
+        "palavra": "Sauger",
+        "significado": "sugador"
+      }
+    ],
+    "traducao": "Aspirador de pó",
+    "explicacao": "Literalmente 'sugador de pó'. Bem direto ao ponto!"
+  },
+  {
+    "palavra": "Handschuhe",
+    "partes": [
+      {
+        "palavra": "Hand",
+        "significado": "mão"
+      },
+      {
+        "palavra": "Schuhe",
+        "significado": "sapatos"
+      }
+    ],
+    "traducao": "Luvas",
+    "explicacao": "Literalmente 'sapatos de mão'. Luvas protegem as mãos como sapatos protegem os pés."
+  },
+  {
+    "palavra": "Fernseher",
+    "partes": [
+      {
+        "palavra": "Fern",
+        "significado": "distante"
+      },
+      {
+        "palavra": "Seher",
+        "significado": "observador"
+      }
+    ],
+    "traducao": "Televisão",
+    "explicacao": "Literalmente 'observador de longe'. Televisão permite ver coisas distantes."
+  },
+  {
+    "palavra": "Zahnfleisch",
+    "partes": [
+      {
+        "palavra": "Zahn",
+        "significado": "dente"
+      },
+      {
+        "palavra": "Fleisch",
+        "significado": "carne"
+      }
+    ],
+    "traducao": "Gengiva",
+    "explicacao": "Literalmente 'carne dos dentes'. Refere-se à carne que envolve os dentes."
+  },
+  {
+    "palavra": "Flugzeug",
+    "partes": [
+      {
+        "palavra": "Flug",
+        "significado": "voo"
+      },
+      {
+        "palavra": "Zeug",
+        "significado": "coisa"
+      }
+    ],
+    "traducao": "Avião",
+    "explicacao": "Literalmente 'coisa de voo'. Avião é a coisa que voa."
+  },
+  {
+    "palavra": "Geschirrspüler",
+    "partes": [
+      {
+        "palavra": "Geschirr",
+        "significado": "louça"
+      },
+      {
+        "palavra": "Spüler",
+        "significado": "lavador"
+      }
+    ],
+    "traducao": "Lava-louças",
+    "explicacao": "Literalmente 'lavador de louça'. Máquina para lavar louça."
+  },
+  {
+    "palavra": "Kühlschrank",
+    "partes": [
+      {
+        "palavra": "Kühl",
+        "significado": "frio"
+      },
+      {
+        "palavra": "Schrank",
+        "significado": "armário"
+      }
+    ],
+    "traducao": "Geladeira",
+    "explicacao": "Literalmente 'armário frio'. Lugar para manter alimentos frios."
+  },
+  {
+    "palavra": "Wasserkocher",
+    "partes": [
+      {
+        "palavra": "Wasser",
+        "significado": "água"
+      },
+      {
+        "palavra": "Kocher",
+        "significado": "fervedor"
+      }
+    ],
+    "traducao": "Chaleira elétrica",
+    "explicacao": "Literalmente 'fervedor de água'. Aparelho para ferver água."
+  },
+  {
+    "palavra": "Schreibtisch",
+    "partes": [
+      {
+        "palavra": "Schreib",
+        "significado": "escrever"
+      },
+      {
+        "palavra": "Tisch",
+        "significado": "mesa"
+      }
+    ],
+    "traducao": "Escrivaninha",
+    "explicacao": "Literalmente 'mesa de escrever'. Mesa usada para escrever ou estudar."
+  },
+  {
+    "palavra": "Feuerzeug",
+    "partes": [
+      {
+        "palavra": "Feuer",
+        "significado": "fogo"
+      },
+      {
+        "palavra": "Zeug",
+        "significado": "coisa"
+      }
+    ],
+    "traducao": "Isqueiro",
+    "explicacao": "Literalmente 'coisa de fogo'. Objeto usado para acender fogo."
+  },
+  {
+    "palavra": "Staubtuch",
+    "partes": [
+      {
+        "palavra": "Staub",
+        "significado": "pó"
+      },
+      {
+        "palavra": "Tuch",
+        "significado": "pano"
+      }
+    ],
+    "traducao": "Pano de pó",
+    "explicacao": "Literalmente 'pano de pó'. Usado para limpar o pó."
+  },
+  {
+    "palavra": "Handtuch",
+    "partes": [
+      {
+        "palavra": "Hand",
+        "significado": "mão"
+      },
+      {
+        "palavra": "Tuch",
+        "significado": "toalha"
+      }
+    ],
+    "traducao": "Toalha de mão",
+    "explicacao": "Literalmente 'toalha de mão'. Toalha usada para secar as mãos."
+  },
+  {
+    "palavra": "Bleistift",
+    "partes": [
+      {
+        "palavra": "Blei",
+        "significado": "chumbo"
+      },
+      {
+        "palavra": "Stift",
+        "significado": "lápis/caneta"
+      }
+    ],
+    "traducao": "Lápis",
+    "explicacao": "Literalmente 'caneta de chumbo'. Lápis originalmente feitos com grafite, que lembra chumbo."
+  },
+  {
+    "palavra": "Flaschenöffner",
+    "partes": [
+      {
+        "palavra": "Flasche",
+        "significado": "garrafa"
+      },
+      {
+        "palavra": "Öffner",
+        "significado": "abridor"
+      }
+    ],
+    "traducao": "Abridor de garrafas",
+    "explicacao": "Literalmente 'abridor de garrafas'. Ferramenta para abrir garrafas."
+  },
+  {
+    "palavra": "Taschenlampe",
+    "partes": [
+      {
+        "palavra": "Tasche",
+        "significado": "bolso"
+      },
+      {
+        "palavra": "Lampe",
+        "significado": "lanterna/lâmpada"
+      }
+    ],
+    "traducao": "Lanterna",
+    "explicacao": "Literalmente 'lâmpada de bolso'. Pequena lanterna portátil."
+  },
+  {
+    "palavra": "Zahnarzt",
+    "partes": [
+      {
+        "palavra": "Zahn",
+        "significado": "dente"
+      },
+      {
+        "palavra": "Arzt",
+        "significado": "médico"
+      }
+    ],
+    "traducao": "Dentista",
+    "explicacao": "Literalmente 'médico dos dentes'. Profissional que cuida dos dentes."
+  },
+  {
+    "palavra": "Seehund",
+    "partes": [
+      {
+        "palavra": "See",
+        "significado": "mar"
+      },
+      {
+        "palavra": "Hund",
+        "significado": "cachorro"
+      }
+    ],
+    "traducao": "Foca",
+    "explicacao": "Literalmente 'cachorro do mar'. Foca é chamada assim pelo seu som e aparência."
+  },
+  {
+    "palavra": "Seestern",
+    "partes": [
+      {
+        "palavra": "See",
+        "significado": "mar"
+      },
+      {
+        "palavra": "Stern",
+        "significado": "estrela"
+      }
+    ],
+    "traducao": "Estrela-do-mar",
+    "explicacao": "Literalmente 'estrela do mar'. Animal marinho em forma de estrela."
+  },
+  {
+    "palavra": "Seepferdchen",
+    "partes": [
+      {
+        "palavra": "See",
+        "significado": "mar"
+      },
+      {
+        "palavra": "Pferdchen",
+        "significado": "cavalinho"
+      }
+    ],
+    "traducao": "Cavalo-marinho",
+    "explicacao": "Literalmente 'cavalinho do mar'. Pequeno peixe com formato de cavalo."
+  },
+  {
+    "palavra": "Tintenfisch",
+    "partes": [
+      {
+        "palavra": "Tinte",
+        "significado": "tinta"
+      },
+      {
+        "palavra": "Fisch",
+        "significado": "peixe"
+      }
+    ],
+    "traducao": "Lula/Polvo",
+    "explicacao": "Literalmente 'peixe de tinta'. Refere-se ao animal que solta tinta na água."
+  },
+  {
+    "palavra": "Walross",
+    "partes": [
+      {
+        "palavra": "Wal",
+        "significado": "baleia"
+      },
+      {
+        "palavra": "Ross",
+        "significado": "cavalo"
+      }
+    ],
+    "traducao": "Morsa",
+    "explicacao": "Literalmente 'cavalo-baleia'. Animal marinho grande com presas."
+  },
+  {
+    "palavra": "Quallenblume",
+    "partes": [
+      {
+        "palavra": "Qualle",
+        "significado": "medusa/água-viva"
+      },
+      {
+        "palavra": "Blume",
+        "significado": "flor"
+      }
+    ],
+    "traducao": "Medusa (água-viva)",
+    "explicacao": "Literalmente 'flor de água-viva'. Animal marinho gelatinoso."
+  },
+  {
+    "palavra": "Seegurke",
+    "partes": [
+      {
+        "palavra": "See",
+        "significado": "mar"
+      },
+      {
+        "palavra": "Gurke",
+        "significado": "pepino"
+      }
+    ],
+    "traducao": "Pepino-do-mar",
+    "explicacao": "Literalmente 'pepino do mar'. Animal marinho de corpo alongado."
+  }
+]
