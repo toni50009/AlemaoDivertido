@@ -104,7 +104,7 @@ main {
 
 /* Media Queries */
 
-@media (min-width: 445px) {
+@media (max-width: 445px) {
   main {
     margin-top: 150px;
   }
