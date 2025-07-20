@@ -5,6 +5,7 @@ let idioma = "pt-br";
 // Buscar Elementos
 const lgpt = document.getElementById("pt-br");
 const lgeng = document.getElementById("en-us");
+const lges = document.getElementById("es-es");
 const tituloHeader = document.getElementById("titulo-header");
 const tituloBanner = document.getElementById("titulo-banner");
 const descricaoBanner = document.getElementById("descricao-banner");
@@ -15,10 +16,20 @@ const textoTituloPagina = document.querySelector("title");
 // Funções
 async function carregarPalavras(idiomaSelecionado) {
   try {
-    const arquivo =
-      idiomaSelecionado === "pt-br"
-        ? "assets/palavras_alemas.json"
-        : "assets/palavras_alemas_en.json";
+    let arquivo;
+    switch (idiomaSelecionado) {
+      case "pt-br":
+        arquivo = "assets/palavras_alemas.json";
+        break;
+      case "en-us":
+        arquivo = "assets/palavras_alemas_en.json";
+        break;
+      case "es-es":
+        arquivo = "assets/palavras_alemas_es.json";
+        break;
+      default:
+        arquivo = "assets/palavras_alemas.json";
+    }
 
     const response = await fetch(arquivo);
     const dados = await response.json();
@@ -32,8 +43,12 @@ async function carregarPalavras(idiomaSelecionado) {
 function mudarIdioma(idiomaSelecionado) {
   idioma = idiomaSelecionado;
 
+  // Remover classe active de todas as bandeiras
+  lgpt.classList.remove("active");
+  lgeng.classList.remove("active");
+  lges.classList.remove("active");
+
   if (idiomaSelecionado === "pt-br") {
-    lgeng.classList.remove("active");
     lgpt.classList.add("active");
     tituloHeader.textContent = "Alemão Divertido";
     tituloBanner.textContent = "Bem-vindo!";
@@ -42,8 +57,7 @@ function mudarIdioma(idiomaSelecionado) {
     inputBanner.placeholder = "Digite uma palavra";
     inputBanner.value = "";
     textoTituloPagina.textContent = "Alemão Divertido";
-  } else {
-    lgpt.classList.remove("active");
+  } else if (idiomaSelecionado === "en-us") {
     lgeng.classList.add("active");
     tituloHeader.textContent = "Funny German";
     tituloBanner.textContent = "Welcome!";
@@ -52,6 +66,15 @@ function mudarIdioma(idiomaSelecionado) {
     inputBanner.placeholder = "Enter a word";
     inputBanner.value = "";
     textoTituloPagina.textContent = "Funny German";
+  } else if (idiomaSelecionado === "es-es") {
+    lges.classList.add("active");
+    tituloHeader.textContent = "Alemán Divertido";
+    tituloBanner.textContent = "¡Bienvenido!";
+    descricaoBanner.textContent =
+      "¡Haz clic en una palabra para ver su significado en alemán, y descubre lo divertido que es el alemán!";
+    inputBanner.placeholder = "Escribe una palabra";
+    inputBanner.value = "";
+    textoTituloPagina.textContent = "Alemán Divertido";
   }
 
   // Recarregar palavras com o novo idioma
@@ -113,6 +136,10 @@ lgpt.addEventListener("click", () => {
 
 lgeng.addEventListener("click", () => {
   mudarIdioma("en-us");
+});
+
+lges.addEventListener("click", () => {
+  mudarIdioma("es-es");
 });
 
 inputBanner.addEventListener("input", (e) => {

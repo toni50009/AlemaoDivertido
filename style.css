@@ -76,7 +76,8 @@ main {
 }
 
 #pt-br,
-#en-us {
+#en-us,
+#es-es {
   cursor: pointer;
   padding: 0.5rem;
   border-radius: 8px;
@@ -84,7 +85,8 @@ main {
 }
 
 #pt-br:hover,
-#en-us:hover {
+#en-us:hover,
+#es-es:hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
 
