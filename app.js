@@ -52,8 +52,7 @@ function mudarIdioma(idiomaSelecionado) {
     lgpt.classList.add("active");
     tituloHeader.textContent = "Alemão Divertido";
     tituloBanner.textContent = "Bem-vindo!";
-    descricaoBanner.textContent =
-      "Clique em uma palavra para ver o significado em alemão, e descubra como o alemão é divertido!";
+    descricaoBanner.textContent = "Descubra como o alemão é divertido!";
     inputBanner.placeholder = "Digite uma palavra";
     inputBanner.value = "";
     textoTituloPagina.textContent = "Alemão Divertido";
@@ -61,8 +60,7 @@ function mudarIdioma(idiomaSelecionado) {
     lgeng.classList.add("active");
     tituloHeader.textContent = "Funny German";
     tituloBanner.textContent = "Welcome!";
-    descricaoBanner.textContent =
-      "Click on a word to see the meaning in German, and discover how German is fun!";
+    descricaoBanner.textContent = "Discover how German is fun!";
     inputBanner.placeholder = "Enter a word";
     inputBanner.value = "";
     textoTituloPagina.textContent = "Funny German";
@@ -70,8 +68,7 @@ function mudarIdioma(idiomaSelecionado) {
     lges.classList.add("active");
     tituloHeader.textContent = "Alemán Divertido";
     tituloBanner.textContent = "¡Bienvenido!";
-    descricaoBanner.textContent =
-      "¡Haz clic en una palabra para ver su significado en alemán, y descubre lo divertido que es el alemán!";
+    descricaoBanner.textContent = "¡Descubre lo divertido que es el alemán!";
     inputBanner.placeholder = "Escribe una palabra";
     inputBanner.value = "";
     textoTituloPagina.textContent = "Alemán Divertido";

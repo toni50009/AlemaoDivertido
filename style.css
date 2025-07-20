@@ -15,7 +15,7 @@ ul {
 }
 
 main {
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 /* Estilos para as palavras */
@@ -68,7 +68,7 @@ main {
   padding: 0.5rem;
   border-radius: 8px;
   transition: all 0.3s ease;
-  max-width: 100px;
+  max-width: 150px;
 }
 .flag {
   transition: all 0.3s ease;
@@ -103,15 +103,8 @@ main {
 }
 
 /* Media Queries */
-
-@media (max-width: 445px) {
-  main {
-    margin-top: 150px;
-  }
-}
-
 @media (min-width: 1000px) {
-  main {
-    margin-top: 200px;
+  .flag {
+    width: 25% !important;
   }
 }
